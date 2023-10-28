@@ -1,0 +1,8 @@
+This is the code for ["Supply-Side Equilibria in Recommender Systems"](https://arxiv.org/abs/2206.13489) (Meena Jagadeesan, Nikhil Garg, and Jacob Steinhardt). A conference version of this paper appeared at NeurIPS 2023.
+
+## Abstract 
+Algorithmic recommender systems such as Spotify and Netflix affect not only consumer behavior but also producer incentives. Producers seek to create content that will be shown by the recommendation algorithm, which can impact both the diversity and quality of their content. In this work, we investigate the resulting supply-side equilibria in personalized content recommender systems. We model the decisions of producers as choosing multi-dimensional content vectors and users as having heterogenous preferences, which contrasts with classical low-dimensional models. Multi-dimensionality and heterogeneity creates the potential for specialization, where different producers create different types of content at equilibrium. Using a duality argument, we derive necessary and sufficient conditions for whether specialization occurs. Then, we characterize the distribution of content at equilibrium in concrete settings with two populations of users. Lastly, we show that specialization can enable producers to achieve positive profit at equilibrium, which means that specialization can reduce the competitiveness of the marketplace. At a conceptual level, our analysis of supply-side competition takes a step towards elucidating how personalized recommendations shape the marketplace of digital goods.
+
+
+## Details
+See notebook.ipynb for a Jupyter notebook which contains the code to generate the data and plots in the paper. 
