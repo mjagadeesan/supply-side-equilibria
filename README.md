@@ -5,4 +5,4 @@ Algorithmic recommender systems such as Spotify and Netflix affect not only cons
 
 
 ## Details
-See notebook.ipynb for a Jupyter notebook which contains the code to generate the data and plots in the paper. 
+See `notebook.ipynb` for a Jupyter notebook which contains the code to generate the data and plots in the paper. 
